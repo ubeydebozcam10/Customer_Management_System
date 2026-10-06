@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF6228A-8550-483F-B152-2D08F026C53C}|musteri_Kart_\u0130liskisi.API\\musteri_Kart_\u0130liskisi.API.csproj|c:\\users\\ubeyde\\source\\repos\\musteri_kart_\u0130liskisi\\musteri_kart_\u0130liskisi.api\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6228A-8550-483F-B152-2D08F026C53C}|musteri_Kart_\u0130liskisi.API\\musteri_Kart_\u0130liskisi.API.csproj|solutionrelative:musteri_kart_\u0130liskisi.api\\controllers\\mustericontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_kart_\u0130liskisi\\validationrules\\musteriguncelledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|solutionrelative:musteri_kart_\u0130liskisi\\validationrules\\musteriguncelledtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_kart_\u0130liskisi\\dtos\\musteriguncelledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|solutionrelative:musteri_kart_\u0130liskisi\\dtos\\musteriguncelledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_kart_\u0130liskisi\\services\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|solutionrelative:musteri_kart_\u0130liskisi\\services\\musteriservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_kart_\u0130liskisi\\dtos\\musterilisteledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|solutionrelative:musteri_kart_\u0130liskisi\\dtos\\musterilisteledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_kart_\u0130liskisi\\validationrules\\musterikayitdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754E445B-3533-4CDA-8B82-73346E4522A7}|musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.csproj|solutionrelative:musteri_kart_\u0130liskisi\\validationrules\\musterikayitdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF6228A-8550-483F-B152-2D08F026C53C}|musteri_Kart_\u0130liskisi.API\\musteri_Kart_\u0130liskisi.API.csproj|C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_kart_\u0130liskisi.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6228A-8550-483F-B152-2D08F026C53C}|musteri_Kart_\u0130liskisi.API\\musteri_Kart_\u0130liskisi.API.csproj|solutionrelative:musteri_kart_\u0130liskisi.api\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCF6228A-8550-483F-B152-2D08F026C53C}|musteri_Kart_\u0130liskisi.API\\musteri_Kart_\u0130liskisi.API.csproj|C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_kart_\u0130liskisi.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCF6228A-8550-483F-B152-2D08F026C53C}|musteri_Kart_\u0130liskisi.API\\musteri_Kart_\u0130liskisi.API.csproj|solutionrelative:musteri_kart_\u0130liskisi.api\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MusteriGuncelleDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriGuncelleDtoValidator.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriGuncelleDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriGuncelleDtoValidator.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriGuncelleDtoValidator.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAtwDMAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T12:40:58.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MusteriService.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\Services\\MusteriService.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi\\Services\\MusteriService.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\Services\\MusteriService.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi\\Services\\MusteriService.cs",
+              "ViewState": "AgIAAJYAAAAAAAAAAAAAAKAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T12:30:50.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MusteriKayitDtoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriKayitDtoValidator.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriKayitDtoValidator.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriKayitDtoValidator.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi\\ValidationRules\\MusteriKayitDtoValidator.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwDcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T19:20:17.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MusteriController.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.API\\Controllers\\MusteriController.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi.API\\Controllers\\MusteriController.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.API\\Controllers\\MusteriController.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi.API\\Controllers\\MusteriController.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAADwv4sAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:02:20.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MusteriGuncelleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\DTOS\\MusteriGuncelleDto.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi\\DTOS\\MusteriGuncelleDto.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\DTOS\\MusteriGuncelleDto.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi\\DTOS\\MusteriGuncelleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T12:34:42.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.API\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi.API\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.API\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi.API\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:04:46.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MusteriListeleDto.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\DTOS\\MusteriListeleDto.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi\\DTOS\\MusteriListeleDto.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi\\DTOS\\MusteriListeleDto.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi\\DTOS\\MusteriListeleDto.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAqwDAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:04:58.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.API\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "musteri_Kart_\u0130liskisi.API\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Ubeyde\\source\\repos\\musteri_Kart_\u0130liskisi\\musteri_Kart_\u0130liskisi.API\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "musteri_Kart_\u0130liskisi.API\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-23T18:04:49.169Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
